@@ -20,4 +20,4 @@ DCG@K
 The second one is a simplified DCG metric:
 According to this metric, the model gets a higher reward for a higher position(rank 1) of the correct answer. If the answer does not appear in topK at all, the reward is zero.
 
-** Note: Data could not be pushed to GIT because of size restrictions. So those files are stored in my private hard disk and will be provided if required. **
+>> Note: Data could not be pushed to GIT because of size restrictions. So those files are stored in my private hard disk and will be provided if required. 
